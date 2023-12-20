@@ -1,3 +1,3 @@
 # Midterm
 
-- [Portfolio Hosted on Vercel](midterm-urvisha-mevdawalas-projects.vercel.app)
+- [Portfolio Hosted on Vercel](https://midtermredo.vercel.app/)
