@@ -5,6 +5,7 @@ import RectangleSection from '../components/RectangleSection';
 import SkillsSection from '../components/SkillsSection';
 import ExperienceSection from '../components/ExperienceSection';
 import EducationSection from '../components/EducationSection';
+import Footer from '../components/Footer';
 
 const About = () => {
   return (
@@ -16,6 +17,7 @@ const About = () => {
         <SkillsSection />
         <ExperienceSection />
         <EducationSection />
+        <Footer /> 
       </main>
     </div>
   );
